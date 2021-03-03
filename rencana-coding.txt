@@ -6,5 +6,6 @@ Rencana Coding
 -Java Script
  *Framework nya 
   ^ Vue
+  ^ React
 -Backend
 -PHP
