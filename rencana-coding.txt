@@ -4,5 +4,7 @@ Rencana Coding
  *Bootsrap
 -SASS
 -Java Script
- *Framework nya
+ *Framework nya 
+  ^ Vue
 -Backend
+-PHP
